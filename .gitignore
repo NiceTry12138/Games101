@@ -2,4 +2,6 @@ build
 output
 .vscode
 .vscode/settings.json
-
+x64
+Debug
+.vs
